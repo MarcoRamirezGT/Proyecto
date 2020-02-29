@@ -4,7 +4,6 @@ ScriptsOnlyBuild:
     - MO
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
-    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -52,15 +51,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9674}
     - Class: 114
-      Script: {instanceID: 9822}
+      Script: {instanceID: 9830}
     - Class: 114
-      Script: {instanceID: 10230}
+      Script: {instanceID: 10250}
     - Class: 114
-      Script: {instanceID: 10812}
+      Script: {instanceID: 10850}
     - Class: 114
-      Script: {instanceID: 11010}
+      Script: {instanceID: 11060}
     - Class: 114
-      Script: {instanceID: 11352}
+      Script: {instanceID: 11412}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -514,4 +513,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Lvl1.unity
   playerPath: C:/Users/MACO/OneDrive/Escritorio/UVG S3/Programacion plataformas moviles
-    y juegos/Proyecto/JuegoCompiladoV2/Proyecto.exe
+    y juegos/Proyecto/JuegoCompiladoV4/Proyecto.exe

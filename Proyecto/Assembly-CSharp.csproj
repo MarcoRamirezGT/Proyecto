@@ -65,6 +65,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\MO.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
+    <None Include="Assets\FreeVoxelGirl\ReadMe.txt" />
     <None Include="Assets\Gothicvania Cemetery Artwork\about.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/MACO/OneDrive/Escritorio/UVG S3/Programacion plataformas moviles y juegos/Proyecto/Proyecto/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
